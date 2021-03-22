@@ -1,0 +1,6 @@
+pageObjects\CheckoutPage.class
+pageObjects\Preferences.class
+Mobile_Automation\Mobile_Automation_Framework\TestBase.class
+Mobile_Automation\Mobile_Automation_Framework\Utilities.class
+pageObjects\FormPage.class
+pageObjects\HomePage.class

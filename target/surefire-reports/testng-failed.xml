@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="Mobile_Automation.Mobile_Automation_Framework.TC_004">
+        <methods>
+          <include name="Total_Sum_Validation"/>
+        </methods>
+      </class> <!-- Mobile_Automation.Mobile_Automation_Framework.TC_004 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
