@@ -10,6 +10,11 @@ Tools and Technologies Integrated
 * UI AUTOMATOR – (Mobile Elements Locator Tool ) 
 * PAGE OBJECT MODEL / PAGE CHAINING MODEL – ( Framework Design Pattern ) 
 * ANDROID STUDIO ( Virtual Devices or Emulators– Nexus ,  Tablet , TV ) 
+* X-CODE ( Virtual IOS Devices )
+
+
+
+
 
 
 
