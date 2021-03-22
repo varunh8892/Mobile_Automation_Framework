@@ -12,6 +12,8 @@ Tools and Technologies Integrated
 * ANDROID STUDIO ( Virtual Devices or Emulators– Nexus ,  Tablet , TV ) 
 * X-CODE ( Virtual IOS Devices )
 
+![Infra](https://user-images.githubusercontent.com/52350167/111935268-7dcabc80-8a99-11eb-8962-22da43de9e1b.PNG)
+
 
 
 
