@@ -3,6 +3,7 @@ This repo consists of Mobile automation framework to test end to end functionali
 
 Tools and Technologies Integrated 
 * APPIUM  ( Mobile Automation Tool )
+* JAVA ( Programming Language)
 * Test Next Generation ( TestNG) – (Mobile Automation Framework)
 * MAVEN – ( Build Automation Tool)  
 * JENKINS – ( Continuous Integration Tool ) 
